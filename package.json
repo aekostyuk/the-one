@@ -1,0 +1,22 @@
+{
+    "name": "the-one-vscode-theme",
+    "displayName": "The One",
+    "description": "The One color theme",
+    "version": "0.0.1",
+    "author": "Alexander Kostyuk <a.e.kostyuk@gmail.com>",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The One",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The One-color-theme.json"
+            }
+        ]
+    }
+}
